@@ -1,0 +1,962 @@
+﻿{
+    "Essen":  {
+                  "words":  [
+                                {
+                                    "word":  "Pizza",
+                                    "tip":  "Das kann man mit vielen Zutaten belegen"
+                                },
+                                {
+                                    "word":  "Pfannkuchen",
+                                    "tip":  "Den kann man sÃ¼ÃŸ oder herzhaft essen"
+                                },
+                                {
+                                    "word":  "Sushi",
+                                    "tip":  "Das wird oft mit StÃ¤bchen gegessen"
+                                },
+                                {
+                                    "word":  "Eis",
+                                    "tip":  "Das kÃ¼hlt an einem warmen Tag"
+                                }
+                            ]
+              },
+    "Orte":  {
+                 "words":  [
+                               {
+                                   "word":  "Strand",
+                                   "tip":  "Dort gibt es oft Sand und Wasser"
+                               },
+                               {
+                                   "word":  "Bibliothek",
+                                   "tip":  "Dort kann man viele BÃ¼cher finden"
+                               },
+                               {
+                                   "word":  "Flughafen",
+                                   "tip":  "Dort starten und landen Flugzeuge"
+                               },
+                               {
+                                   "word":  "Spielplatz",
+                                   "tip":  "Dort spielen oft Kinder"
+                               }
+                           ]
+             },
+    "Tiere":  {
+                  "words":  [
+                                {
+                                    "word":  "Pinguin",
+                                    "tip":  "Dieser Vogel kann nicht fliegen"
+                                },
+                                {
+                                    "word":  "Giraffe",
+                                    "tip":  "Dieses Tier hat einen sehr langen Hals"
+                                },
+                                {
+                                    "word":  "Delfin",
+                                    "tip":  "Dieses Tier lebt im Wasser"
+                                },
+                                {
+                                    "word":  "Eule",
+                                    "tip":  "Dieser Vogel ist meistens nachts aktiv"
+                                }
+                            ]
+              },
+    "Alle":  {
+                 "words":  [
+                               {
+                                   "word":  "KartoffelschÃ¤ler",
+                                   "tip":  "Klinge"
+                               },
+                               {
+                                   "word":  "Kerzenlicht",
+                                   "tip":  "GemÃ¼tlich"
+                               },
+                               {
+                                   "word":  "Seifenspender",
+                                   "tip":  "Dosieren"
+                               },
+                               {
+                                   "word":  "Pfandautomat",
+                                   "tip":  "Sammeln"
+                               },
+                               {
+                                   "word":  "Bilderrahmen",
+                                   "tip":  "Erinnerung"
+                               },
+                               {
+                                   "word":  "Kochtopf",
+                                   "tip":  "RÃ¼hren"
+                               },
+                               {
+                                   "word":  "BÃ¼rostuhl",
+                                   "tip":  "Drehen"
+                               },
+                               {
+                                   "word":  "Kleiderhaken",
+                                   "tip":  "Biegung"
+                               },
+                               {
+                                   "word":  "ZahnbÃ¼rste",
+                                   "tip":  "Putzen"
+                               },
+                               {
+                                   "word":  "Staubsauger",
+                                   "tip":  "Laut"
+                               },
+                               {
+                                   "word":  "WÃ¤schekorb",
+                                   "tip":  "Sammeln"
+                               },
+                               {
+                                   "word":  "BÃ¼geleisen",
+                                   "tip":  "GlÃ¤tten"
+                               },
+                               {
+                                   "word":  "DosenÃ¶ffner",
+                                   "tip":  "Drehen"
+                               },
+                               {
+                                   "word":  "Schneidebrett",
+                                   "tip":  "KÃ¼che"
+                               },
+                               {
+                                   "word":  "Wasserkocher",
+                                   "tip":  "Dampfen"
+                               },
+                               {
+                                   "word":  "Toaster",
+                                   "tip":  "Knusprig"
+                               },
+                               {
+                                   "word":  "Regenschirm",
+                                   "tip":  "Aufspannen"
+                               },
+                               {
+                                   "word":  "FuÃŸmatte",
+                                   "tip":  "Eingang"
+                               },
+                               {
+                                   "word":  "Wecker",
+                                   "tip":  "Aufwachen"
+                               },
+                               {
+                                   "word":  "Taschenlampe",
+                                   "tip":  "Dunkelheit"
+                               },
+                               {
+                                   "word":  "Klebeband",
+                                   "tip":  "Reparieren"
+                               },
+                               {
+                                   "word":  "MaÃŸband",
+                                   "tip":  "LÃ¤nge"
+                               },
+                               {
+                                   "word":  "WÃ¤scheklammer",
+                                   "tip":  "Festhalten"
+                               },
+                               {
+                                   "word":  "TÃ¼rstopper",
+                                   "tip":  "Blockieren"
+                               },
+                               {
+                                   "word":  "Salzstreuer",
+                                   "tip":  "WÃ¼rzen"
+                               },
+                               {
+                                   "word":  "Pfannkuchen",
+                                   "tip":  "Wenden"
+                               },
+                               {
+                                   "word":  "Spiegelei",
+                                   "tip":  "FrÃ¼hstÃ¼ck"
+                               },
+                               {
+                                   "word":  "Popcorn",
+                                   "tip":  "Kino"
+                               },
+                               {
+                                   "word":  "Korkenzieher",
+                                   "tip":  "Flasche"
+                               },
+                               {
+                                   "word":  "Knoblauch",
+                                   "tip":  "Geruch"
+                               },
+                               {
+                                   "word":  "Wassermelone",
+                                   "tip":  "Sommer"
+                               },
+                               {
+                                   "word":  "TiefkÃ¼hlpizza",
+                                   "tip":  "Bequem"
+                               },
+                               {
+                                   "word":  "Kaugummi",
+                                   "tip":  "Kauen"
+                               },
+                               {
+                                   "word":  "Honig",
+                                   "tip":  "Klebrig"
+                               },
+                               {
+                                   "word":  "Brezel",
+                                   "tip":  "Lauge"
+                               },
+                               {
+                                   "word":  "Kokosnuss",
+                                   "tip":  "Tropisch"
+                               },
+                               {
+                                   "word":  "Zitronenpresse",
+                                   "tip":  "SÃ¤ure"
+                               },
+                               {
+                                   "word":  "Nudelsieb",
+                                   "tip":  "AbgieÃŸen"
+                               },
+                               {
+                                   "word":  "PfeffermÃ¼hle",
+                                   "tip":  "Mahlen"
+                               },
+                               {
+                                   "word":  "Schneebesen",
+                                   "tip":  "Schlagen"
+                               },
+                               {
+                                   "word":  "Thermoskanne",
+                                   "tip":  "Warmhalten"
+                               },
+                               {
+                                   "word":  "EiswÃ¼rfel",
+                                   "tip":  "Klirren"
+                               },
+                               {
+                                   "word":  "Kaffeefilter",
+                                   "tip":  "AufbrÃ¼hen"
+                               },
+                               {
+                                   "word":  "Marzipan",
+                                   "tip":  "SÃ¼ÃŸ"
+                               },
+                               {
+                                   "word":  "Senf",
+                                   "tip":  "Scharf"
+                               },
+                               {
+                                   "word":  "Zahnarztpraxis",
+                                   "tip":  "Warten"
+                               },
+                               {
+                                   "word":  "Flughafen",
+                                   "tip":  "Abflug"
+                               },
+                               {
+                                   "word":  "Bibliothek",
+                                   "tip":  "Leise"
+                               },
+                               {
+                                   "word":  "Schwimmbad",
+                                   "tip":  "Chlor"
+                               },
+                               {
+                                   "word":  "Baumarkt",
+                                   "tip":  "Schrauben"
+                               },
+                               {
+                                   "word":  "Waschsalon",
+                                   "tip":  "Trommel"
+                               },
+                               {
+                                   "word":  "Campingplatz",
+                                   "tip":  "Zelt"
+                               },
+                               {
+                                   "word":  "Leuchtturm",
+                                   "tip":  "KÃ¼ste"
+                               },
+                               {
+                                   "word":  "Gerichtssaal",
+                                   "tip":  "Urteil"
+                               },
+                               {
+                                   "word":  "GewÃ¤chshaus",
+                                   "tip":  "Feuchtigkeit"
+                               },
+                               {
+                                   "word":  "Museum",
+                                   "tip":  "Vergangenheit"
+                               },
+                               {
+                                   "word":  "Parkhaus",
+                                   "tip":  "Ebene"
+                               },
+                               {
+                                   "word":  "Bahnhof",
+                                   "tip":  "Gleis"
+                               },
+                               {
+                                   "word":  "Kindergarten",
+                                   "tip":  "Spielen"
+                               },
+                               {
+                                   "word":  "BÃ¤ckerei",
+                                   "tip":  "FrÃ¼h"
+                               },
+                               {
+                                   "word":  "Fitnessstudio",
+                                   "tip":  "Wiederholungen"
+                               },
+                               {
+                                   "word":  "Kegelbahn",
+                                   "tip":  "Umwerfen"
+                               },
+                               {
+                                   "word":  "Hotelzimmer",
+                                   "tip":  "Ãœbernachten"
+                               },
+                               {
+                                   "word":  "Aussichtsturm",
+                                   "tip":  "HÃ¶he"
+                               },
+                               {
+                                   "word":  "Escape Room",
+                                   "tip":  "RÃ¤tsel"
+                               },
+                               {
+                                   "word":  "Spielkonsole",
+                                   "tip":  "Controller"
+                               },
+                               {
+                                   "word":  "KopfhÃ¶rer",
+                                   "tip":  "Abschirmung"
+                               },
+                               {
+                                   "word":  "Powerbank",
+                                   "tip":  "Reserve"
+                               },
+                               {
+                                   "word":  "Fernbedienung",
+                                   "tip":  "KnÃ¶pfe"
+                               },
+                               {
+                                   "word":  "Digitalkamera",
+                                   "tip":  "AuslÃ¶sen"
+                               },
+                               {
+                                   "word":  "Drohne",
+                                   "tip":  "Schweben"
+                               },
+                               {
+                                   "word":  "Weitwinkelobjektiv",
+                                   "tip":  "Perspektive"
+                               },
+                               {
+                                   "word":  "Skateboard",
+                                   "tip":  "Rollen"
+                               },
+                               {
+                                   "word":  "Fernglas",
+                                   "tip":  "Entfernung"
+                               },
+                               {
+                                   "word":  "Schachbrett",
+                                   "tip":  "Strategie"
+                               },
+                               {
+                                   "word":  "Jo-Jo",
+                                   "tip":  "Aufwickeln"
+                               },
+                               {
+                                   "word":  "Discokugel",
+                                   "tip":  "Spiegeln"
+                               },
+                               {
+                                   "word":  "Karaoke-Mikrofon",
+                                   "tip":  "Peinlich"
+                               },
+                               {
+                                   "word":  "Spielautomat",
+                                   "tip":  "Zufall"
+                               },
+                               {
+                                   "word":  "Plattenspieler",
+                                   "tip":  "Knacken"
+                               },
+                               {
+                                   "word":  "Fahrradpumpe",
+                                   "tip":  "Druck"
+                               },
+                               {
+                                   "word":  "Kompass",
+                                   "tip":  "Richtung"
+                               },
+                               {
+                                   "word":  "Campingkocher",
+                                   "tip":  "Flamme"
+                               },
+                               {
+                                   "word":  "Schnorchel",
+                                   "tip":  "Atmen"
+                               },
+                               {
+                                   "word":  "Jonglierball",
+                                   "tip":  "Geschick"
+                               },
+                               {
+                                   "word":  "Igel",
+                                   "tip":  "Stacheln"
+                               },
+                               {
+                                   "word":  "ChamÃ¤leon",
+                                   "tip":  "Tarnung"
+                               },
+                               {
+                                   "word":  "Fledermaus",
+                                   "tip":  "Echo"
+                               },
+                               {
+                                   "word":  "Flamingo",
+                                   "tip":  "Einbeinig"
+                               },
+                               {
+                                   "word":  "Maulwurf",
+                                   "tip":  "Unterirdisch"
+                               },
+                               {
+                                   "word":  "Qualle",
+                                   "tip":  "Durchsichtig"
+                               },
+                               {
+                                   "word":  "Specht",
+                                   "tip":  "Klopfen"
+                               },
+                               {
+                                   "word":  "Biber",
+                                   "tip":  "Damm"
+                               },
+                               {
+                                   "word":  "Pinguin",
+                                   "tip":  "Watscheln"
+                               },
+                               {
+                                   "word":  "Pfau",
+                                   "tip":  "Rad"
+                               },
+                               {
+                                   "word":  "GlÃ¼hwÃ¼rmchen",
+                                   "tip":  "Leuchten"
+                               },
+                               {
+                                   "word":  "SchildkrÃ¶te",
+                                   "tip":  "Panzer"
+                               },
+                               {
+                                   "word":  "Kaktus",
+                                   "tip":  "Stachelig"
+                               },
+                               {
+                                   "word":  "Sonnenblume",
+                                   "tip":  "Drehen"
+                               },
+                               {
+                                   "word":  "Tannenzapfen",
+                                   "tip":  "Wald"
+                               },
+                               {
+                                   "word":  "Seerose",
+                                   "tip":  "Wasser"
+                               },
+                               {
+                                   "word":  "Stalaktit",
+                                   "tip":  "Tropfen"
+                               },
+                               {
+                                   "word":  "Treibsand",
+                                   "tip":  "Versinken"
+                               },
+                               {
+                                   "word":  "Polarlicht",
+                                   "tip":  "Farben"
+                               },
+                               {
+                                   "word":  "Gewitter",
+                                   "tip":  "Donner"
+                               },
+                               {
+                                   "word":  "DÃ©jÃ -vu",
+                                   "tip":  "Vertraut"
+                               },
+                               {
+                                   "word":  "Lampenfieber",
+                                   "tip":  "Auftritt"
+                               },
+                               {
+                                   "word":  "Gruppenzwang",
+                                   "tip":  "Mitmachen"
+                               },
+                               {
+                                   "word":  "Zeitdruck",
+                                   "tip":  "Hektik"
+                               },
+                               {
+                                   "word":  "Schadenfreude",
+                                   "tip":  "Grinsen"
+                               },
+                               {
+                                   "word":  "Fernweh",
+                                   "tip":  "Aufbrechen"
+                               },
+                               {
+                                   "word":  "Aberglaube",
+                                   "tip":  "UnglÃ¼ck"
+                               },
+                               {
+                                   "word":  "Kompromiss",
+                                   "tip":  "Einigung"
+                               },
+                               {
+                                   "word":  "Nostalgie",
+                                   "tip":  "FrÃ¼her"
+                               },
+                               {
+                                   "word":  "MissverstÃ¤ndnis",
+                                   "tip":  "Verwechslung"
+                               },
+                               {
+                                   "word":  "Geduld",
+                                   "tip":  "Warten"
+                               },
+                               {
+                                   "word":  "Geheimnis",
+                                   "tip":  "Verschweigen"
+                               },
+                               {
+                                   "word":  "Eifersucht",
+                                   "tip":  "Vergleichen"
+                               },
+                               {
+                                   "word":  "Zufall",
+                                   "tip":  "Unerwartet"
+                               },
+                               {
+                                   "word":  "Ablenkung",
+                                   "tip":  "Fokus"
+                               },
+                               {
+                                   "word":  "Prokrastination",
+                                   "tip":  "Morgen"
+                               },
+                               {
+                                   "word":  "Ironie",
+                                   "tip":  "Gegenteil"
+                               },
+                               {
+                                   "word":  "Orientierungslosigkeit",
+                                   "tip":  "Suchen"
+                               },
+                               {
+                                   "word":  "Neugier",
+                                   "tip":  "Entdecken"
+                               },
+                               {
+                                   "word":  "Gewohnheit",
+                                   "tip":  "Automatisch"
+                               },
+                               {
+                                   "word":  "DosenÃ¶ffner",
+                                   "tip":  "Kurbeln"
+                               },
+                               {
+                                   "word":  "FlaschenÃ¶ffner",
+                                   "tip":  "Kronkorken"
+                               },
+                               {
+                                   "word":  "Korkenzieher",
+                                   "tip":  "Drehen"
+                               },
+                               {
+                                   "word":  "Thermoskanne",
+                                   "tip":  "Warmhalten"
+                               },
+                               {
+                                   "word":  "Cocktailshaker",
+                                   "tip":  "Mixen"
+                               },
+                               {
+                                   "word":  "Zitronenpresse",
+                                   "tip":  "SÃ¤ure"
+                               },
+                               {
+                                   "word":  "KÃ¤sereibe",
+                                   "tip":  "Raspeln"
+                               },
+                               {
+                                   "word":  "Salatschleuder",
+                                   "tip":  "Trocknen"
+                               },
+                               {
+                                   "word":  "Wasserfilter",
+                                   "tip":  "Reinheit"
+                               },
+                               {
+                                   "word":  "MilchaufschÃ¤umer",
+                                   "tip":  "Cappuccino"
+                               },
+                               {
+                                   "word":  "Waffeleisen",
+                                   "tip":  "Muster"
+                               },
+                               {
+                                   "word":  "Sandwichmaker",
+                                   "tip":  "Toast"
+                               },
+                               {
+                                   "word":  "Reiskocher",
+                                   "tip":  "Quellen"
+                               },
+                               {
+                                   "word":  "Dampfgarer",
+                                   "tip":  "Schonend"
+                               },
+                               {
+                                   "word":  "KÃ¼chenwaage",
+                                   "tip":  "Gramm"
+                               },
+                               {
+                                   "word":  "Brotdose",
+                                   "tip":  "Pausenbrot"
+                               },
+                               {
+                                   "word":  "Eierbecher",
+                                   "tip":  "FrÃ¼hstÃ¼ck"
+                               },
+                               {
+                                   "word":  "Nudelholz",
+                                   "tip":  "Ausrollen"
+                               },
+                               {
+                                   "word":  "Springform",
+                                   "tip":  "Kuchenrand"
+                               },
+                               {
+                                   "word":  "MuffinfÃ¶rmchen",
+                                   "tip":  "Papier"
+                               },
+                               {
+                                   "word":  "Kaminbesteck",
+                                   "tip":  "Glut"
+                               },
+                               {
+                                   "word":  "Aschenbecher",
+                                   "tip":  "Stummel"
+                               },
+                               {
+                                   "word":  "KerzenlÃ¶scher",
+                                   "tip":  "Docht"
+                               },
+                               {
+                                   "word":  "Streichholzschachtel",
+                                   "tip":  "ReibeflÃ¤che"
+                               },
+                               {
+                                   "word":  "Taschenlampe",
+                                   "tip":  "Dunkelheit"
+                               },
+                               {
+                                   "word":  "Campingkocher",
+                                   "tip":  "Kartusche"
+                               },
+                               {
+                                   "word":  "HÃ¤ngematte",
+                                   "tip":  "Schaukeln"
+                               },
+                               {
+                                   "word":  "Schlafsack",
+                                   "tip":  "Ãœbernachten"
+                               },
+                               {
+                                   "word":  "Isomatte",
+                                   "tip":  "Untergrund"
+                               },
+                               {
+                                   "word":  "Kompass",
+                                   "tip":  "Norden"
+                               },
+                               {
+                                   "word":  "Fernglas",
+                                   "tip":  "VergrÃ¶ÃŸern"
+                               },
+                               {
+                                   "word":  "Taschenmesser",
+                                   "tip":  "Multifunktion"
+                               },
+                               {
+                                   "word":  "Karabiner",
+                                   "tip":  "Einhaken"
+                               },
+                               {
+                                   "word":  "Klettergurt",
+                                   "tip":  "Sicherung"
+                               },
+                               {
+                                   "word":  "Schneekette",
+                                   "tip":  "Traktion"
+                               },
+                               {
+                                   "word":  "Fahrradpumpe",
+                                   "tip":  "Druck"
+                               },
+                               {
+                                   "word":  "Flickzeug",
+                                   "tip":  "Reparatur"
+                               },
+                               {
+                                   "word":  "FahrradstÃ¤nder",
+                                   "tip":  "Abstellen"
+                               },
+                               {
+                                   "word":  "Klingel",
+                                   "tip":  "Warnsignal"
+                               },
+                               {
+                                   "word":  "Tachometer",
+                                   "tip":  "Geschwindigkeit"
+                               },
+                               {
+                                   "word":  "Parkuhr",
+                                   "tip":  "GebÃ¼hren"
+                               },
+                               {
+                                   "word":  "Parkscheibe",
+                                   "tip":  "Ankunft"
+                               },
+                               {
+                                   "word":  "Warndreieck",
+                                   "tip":  "Panne"
+                               },
+                               {
+                                   "word":  "Abschleppseil",
+                                   "tip":  "Ziehen"
+                               },
+                               {
+                                   "word":  "Eiskratzer",
+                                   "tip":  "Scheibe"
+                               },
+                               {
+                                   "word":  "Sonnenschutzblende",
+                                   "tip":  "Blendung"
+                               },
+                               {
+                                   "word":  "Luftmatratze",
+                                   "tip":  "Aufblasen"
+                               },
+                               {
+                                   "word":  "SchwimmflÃ¼gel",
+                                   "tip":  "Auftrieb"
+                               },
+                               {
+                                   "word":  "Schnorchel",
+                                   "tip":  "Atmen"
+                               },
+                               {
+                                   "word":  "Taucherbrille",
+                                   "tip":  "Unterwasser"
+                               },
+                               {
+                                   "word":  "Schwimmflosse",
+                                   "tip":  "Vortrieb"
+                               },
+                               {
+                                   "word":  "Wasserball",
+                                   "tip":  "Planschen"
+                               },
+                               {
+                                   "word":  "Badekappe",
+                                   "tip":  "Haare"
+                               },
+                               {
+                                   "word":  "Badeente",
+                                   "tip":  "Quietschgelb"
+                               },
+                               {
+                                   "word":  "Strandmuschel",
+                                   "tip":  "Schatten"
+                               },
+                               {
+                                   "word":  "Sandburg",
+                                   "tip":  "Eimer"
+                               },
+                               {
+                                   "word":  "Drachen",
+                                   "tip":  "Wind"
+                               },
+                               {
+                                   "word":  "Jo-Jo",
+                                   "tip":  "Aufwickeln"
+                               },
+                               {
+                                   "word":  "Springseil",
+                                   "tip":  "HÃ¼pfen"
+                               },
+                               {
+                                   "word":  "Hula-Hoop-Reifen",
+                                   "tip":  "HÃ¼fte"
+                               },
+                               {
+                                   "word":  "Diabolo",
+                                   "tip":  "Schnur"
+                               },
+                               {
+                                   "word":  "Murmel",
+                                   "tip":  "Kullern"
+                               },
+                               {
+                                   "word":  "Dominostein",
+                                   "tip":  "Umfallen"
+                               },
+                               {
+                                   "word":  "Puzzle",
+                                   "tip":  "Zusammensetzen"
+                               },
+                               {
+                                   "word":  "WÃ¼rfelbecher",
+                                   "tip":  "Klackern"
+                               },
+                               {
+                                   "word":  "Schachbrett",
+                                   "tip":  "Strategie"
+                               },
+                               {
+                                   "word":  "Spielkarte",
+                                   "tip":  "Mischen"
+                               },
+                               {
+                                   "word":  "Dartpfeil",
+                                   "tip":  "Volltreffer"
+                               },
+                               {
+                                   "word":  "Billardqueue",
+                                   "tip":  "StoÃŸen"
+                               },
+                               {
+                                   "word":  "Tischkicker",
+                                   "tip":  "Kurbeln"
+                               },
+                               {
+                                   "word":  "Flipperautomat",
+                                   "tip":  "Kugelbahn"
+                               },
+                               {
+                                   "word":  "Spielkonsole",
+                                   "tip":  "Controller"
+                               },
+                               {
+                                   "word":  "Joystick",
+                                   "tip":  "Steuerung"
+                               },
+                               {
+                                   "word":  "Webcam",
+                                   "tip":  "Videoanruf"
+                               },
+                               {
+                                   "word":  "MikrofonstÃ¤nder",
+                                   "tip":  "BÃ¼hne"
+                               },
+                               {
+                                   "word":  "Plattenspieler",
+                                   "tip":  "Vinyl"
+                               },
+                               {
+                                   "word":  "KopfhÃ¶rerstÃ¤nder",
+                                   "tip":  "Ablage"
+                               },
+                               {
+                                   "word":  "Beamer",
+                                   "tip":  "Leinwand"
+                               },
+                               {
+                                   "word":  "Fernbedienung",
+                                   "tip":  "KnÃ¶pfe"
+                               },
+                               {
+                                   "word":  "Mehrfachsteckdose",
+                                   "tip":  "AnschlÃ¼sse"
+                               },
+                               {
+                                   "word":  "Netzteil",
+                                   "tip":  "Spannung"
+                               },
+                               {
+                                   "word":  "Powerbank",
+                                   "tip":  "Unterwegs"
+                               },
+                               {
+                                   "word":  "USB-Stick",
+                                   "tip":  "Speichern"
+                               },
+                               {
+                                   "word":  "Speicherkarte",
+                                   "tip":  "Dateien"
+                               },
+                               {
+                                   "word":  "Router",
+                                   "tip":  "WLAN"
+                               },
+                               {
+                                   "word":  "Druckerpatrone",
+                                   "tip":  "Tinte"
+                               },
+                               {
+                                   "word":  "LaminiergerÃ¤t",
+                                   "tip":  "Versiegeln"
+                               },
+                               {
+                                   "word":  "Aktenvernichter",
+                                   "tip":  "Schreddern"
+                               },
+                               {
+                                   "word":  "Schreibmaschine",
+                                   "tip":  "Anschlag"
+                               },
+                               {
+                                   "word":  "ReiÃŸbrett",
+                                   "tip":  "Technische Zeichnung"
+                               },
+                               {
+                                   "word":  "Geodreieck",
+                                   "tip":  "Winkel"
+                               },
+                               {
+                                   "word":  "Zirkel",
+                                   "tip":  "Kreis"
+                               },
+                               {
+                                   "word":  "Messschieber",
+                                   "tip":  "PrÃ¤zision"
+                               },
+                               {
+                                   "word":  "LÃ¶tstation",
+                                   "tip":  "Elektronik"
+                               },
+                               {
+                                   "word":  "Multimeter",
+                                   "tip":  "Messwerte"
+                               },
+                               {
+                                   "word":  "Bohrmaschine",
+                                   "tip":  "Loch"
+                               },
+                               {
+                                   "word":  "Schleifmaschine",
+                                   "tip":  "Abrieb"
+                               },
+                               {
+                                   "word":  "HeiÃŸklebepistole",
+                                   "tip":  "Klebstoff"
+                               },
+                               {
+                                   "word":  "DrehmomentschlÃ¼ssel",
+                                   "tip":  "Newtonmeter"
+                               }
+                           ]
+             }
+}
